@@ -6,8 +6,7 @@ var menu = " \
       * [La Réclame](/LaReclame.htm) \
       #### Petit Canal, la prison \
       * [Petit Canal](/Petitcanal.htm) \
-      #### Portraits \
-      * [Portraits](/Portraits.htm) \
+      #### [Portraits](/Portraits.htm) \
       #### Kervalet \
       * [le marais](/Kervalet.htm) \
       #### Info \
