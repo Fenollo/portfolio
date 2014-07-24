@@ -6,32 +6,32 @@ var menu = " \
       * [](/.htm) \
       ##### 2013 \
       * [](///) \
-      * [](/clients/balai-bois/) \
-      * [balai gaz](/clients/balai-gaz/) \
-      * [crânes brûlés](/clients/cranes-brules/) \
-      * [en bas de l'échelle](/clients/en-bas-de-lechelle/) \
+      * [](/clients//) \
+      * [balai gaz](/clients//) \
+      * [crânes brûlés](/clients//) \
+      * [en bas de l'échelle](/clients//) \
       ##### 2012 \
-      * [Ninfas Méduas](/clients/ninfas-meduas/) \
-      * [épicentre](/clients/epicentre/) \
-      * [périmètre(s)](/clients/perimetres/) \
-      * [crâne image](/clients/crane-image/) \
-      * [crânes béton](/clients/cranes-beton/) \
+      * [](/clients//) \
+      * [](/clients//) \
+      * [](/clients//) \
+      * [](/clients//) \
+      * [](/clients//) \
       ##### 2011 \
-      * [images de fer](/clients/images-de-fer/) \
-      * [nature piquée](/clients/nature-pique/) \
-      * [dispersion](/clients/projet-de-fer/) \
+      * [](/clients//) \
+      * [](/clients//) \
+      * [](/clients//) \
       ##### Texte \
       * [](///) \
       * [](/project//) \
       ##### images \
       * [MONDEMON](//) \
-      * [Nuit des musées](/clients//) \
+      * [](/clients//) \
       * [](/clients//) \
       * [](/) \
       ##### Info \
       * [contact](/contact.htm) \
-      * [home](/) \
+      * [](/) \
       * [](/clients//) \
-      * [liens](/liens.htm) \
+      * [](/.htm) \
     </div> \
 ";
