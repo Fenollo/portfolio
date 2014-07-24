@@ -3,7 +3,7 @@ var menu = " \
       # [GILLES FENOLL](/) \
       <br/> \
       #### 2014 \
-      * [La Réclame](/clients/LaReclame.htm) \
+      * [La Réclame](/LaReclame.htm) \
       #### 2013 \
       * [](///) \
       * [](///) \
