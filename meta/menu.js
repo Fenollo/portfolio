@@ -8,6 +8,8 @@ var menu = " \
       * [Petit Canal](/Petitcanal.htm) \
       #### Portraits \
       * [Portraits](/Portraits.htm) \
+      #### Kervalet \
+      * [Portraits](/Kervalet.htm) \
       #### Info \
       * [contact](/contact.htm) \
     </div> \
