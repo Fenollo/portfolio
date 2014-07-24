@@ -24,11 +24,18 @@
               fx: "fade", speed: "2000",
               timeout: 0,
               next: "#k1-next", prev: "#k1-prev" });
+
+          $(document).keydown(function(evt) {
+              if (evt.keyCode == 39) // Up Arrow
+                  $("#k1-next").click();
+              if (evt.keyCode == 37) // Down Arrow
+                  $("#k1-prev").click();
+        });
       });
     </script>
 
     <div id="content" data-markdown>
-        <div class="kiosk" id="k1">
+      <div class="kiosk" id="k1">
         <div><img src="/Kervalet/L0000161.jpeg"/></div>
         <div><img src="/Kervalet/L0000162.jpeg"/></div>
         <div><img src="/Kervalet/L0000164.jpeg"/></div>
