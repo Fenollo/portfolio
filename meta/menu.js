@@ -9,7 +9,7 @@ var menu = " \
       #### Portraits \
       * [Portraits](/Portraits.htm) \
       #### Kervalet \
-      * [Portraits](/Kervalet.htm) \
+      * [le marais](/Kervalet.htm) \
       #### Info \
       * [contact](/contact.htm) \
     </div> \
