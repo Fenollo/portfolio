@@ -5,9 +5,9 @@ var menu = " \
       #### 2014 \
       * [La Réclame](/LaReclame.htm) \
       #### Petit Canal, la prison \
-      *[Petit Canal](/Petitcanal.htm)
+      *[Petit Canal](/Petitcanal.htm) \
       #### Info \
-      * [contact](/contact.htm)
+      * [contact](/contact.htm) \
       * [](/.htm) \
     </div> \
 ";
