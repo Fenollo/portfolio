@@ -30,7 +30,7 @@ var menu = " \
       * [](///) \
       #### Info \
       * [contact](/contact.htm) \
-      * [](/) \
+      * [](///) \
       * [](///) \
       * [](/.htm) \
     </div> \
